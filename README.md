@@ -1,4 +1,4 @@
-# alien_invasion-Chinese-comment-verison
+# alien_invasion-chinese-comment-verison
 
 Python编程从入门到实践（第三版）入门代码中文注释
 
